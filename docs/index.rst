@@ -6,11 +6,10 @@ How to Get $6,000 Toward Your Rent or Mortgage in 2025
    :google-site-verification: A_NQsyCuasCJRK7IhYwTsyZ9qBh4bGquPfK0_6sAXkk
    :description: Discover how to apply for the $6,000 housing assistance program in 2025. Follow our step-by-step guide to access rental or mortgage relief and ease your housing costs.
 
-.. image:: Enter_Product_Key.png
+.. image:: applynow.png
    :width: 350px
    :align: center
    :height: 100px
-   :alt: $6,000 Rent or Mortgage Assistance
    :target: https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fhow-to-apply-for-6000-rent-or-mortgage-assistance-program%2F
 
 .. raw:: html
